@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\bin\Debug\net6.0\The_second_maximum.exe
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\bin\Debug\net6.0\The_second_maximum.deps.json
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\bin\Debug\net6.0\The_second_maximum.runtimeconfig.json
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\bin\Debug\net6.0\The_second_maximum.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\bin\Debug\net6.0\The_second_maximum.pdb
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\The_second_maximum.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\The_second_maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\The_second_maximum.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\The_second_maximum.AssemblyInfo.cs
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\The_second_maximum.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\The_second_maximum.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\refint\The_second_maximum.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\The_second_maximum.pdb
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\The_second_maximum.genruntimeconfig.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\The_second_maximum\obj\Debug\net6.0\ref\The_second_maximum.dll
