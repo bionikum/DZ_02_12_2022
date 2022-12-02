@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\bin\Debug\net6.0\Weekend.exe
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\bin\Debug\net6.0\Weekend.deps.json
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\bin\Debug\net6.0\Weekend.runtimeconfig.json
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\bin\Debug\net6.0\Weekend.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\bin\Debug\net6.0\Weekend.pdb
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\Weekend.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\Weekend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\Weekend.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\Weekend.AssemblyInfo.cs
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\Weekend.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\Weekend.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\refint\Weekend.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\Weekend.pdb
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\Weekend.genruntimeconfig.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\Weekend\obj\Debug\net6.0\ref\Weekend.dll
