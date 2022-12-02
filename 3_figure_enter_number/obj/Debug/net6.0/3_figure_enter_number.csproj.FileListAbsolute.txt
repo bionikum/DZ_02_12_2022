@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\bin\Debug\net6.0\3_figure_enter_number.exe
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\bin\Debug\net6.0\3_figure_enter_number.deps.json
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\bin\Debug\net6.0\3_figure_enter_number.runtimeconfig.json
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\bin\Debug\net6.0\3_figure_enter_number.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\bin\Debug\net6.0\3_figure_enter_number.pdb
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\3_figure_enter_number.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\3_figure_enter_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\3_figure_enter_number.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\3_figure_enter_number.AssemblyInfo.cs
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\3_figure_enter_number.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\3_figure_enter_number.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\refint\3_figure_enter_number.dll
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\3_figure_enter_number.pdb
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\3_figure_enter_number.genruntimeconfig.cache
+C:\Users\Bionikum\Desktop\DZ_02_12_2022\3_figure_enter_number\obj\Debug\net6.0\ref\3_figure_enter_number.dll
