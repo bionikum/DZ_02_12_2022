@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\bin\Debug\net6.0\DZ_02_12_2022.exe
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\bin\Debug\net6.0\DZ_02_12_2022.deps.json
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\bin\Debug\net6.0\DZ_02_12_2022.runtimeconfig.json
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\bin\Debug\net6.0\DZ_02_12_2022.dll
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\bin\Debug\net6.0\DZ_02_12_2022.pdb
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\DZ_02_12_2022.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\DZ_02_12_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\DZ_02_12_2022.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\DZ_02_12_2022.AssemblyInfo.cs
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\DZ_02_12_2022.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\DZ_02_12_2022.dll
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\refint\DZ_02_12_2022.dll
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\DZ_02_12_2022.pdb
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\DZ_02_12_2022.genruntimeconfig.cache
+C:\Users\Bionikum\Мои проекты\Examples\DZ_02_12_2022\obj\Debug\net6.0\ref\DZ_02_12_2022.dll
