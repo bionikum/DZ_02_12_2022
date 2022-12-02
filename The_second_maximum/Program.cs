@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-Console.Write("Введите число: ");
+Console.WriteLine("Введите числа, не более 100 значений: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int n1 = 1;
 if (n > 99)
